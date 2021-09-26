@@ -107,3 +107,21 @@ a{
     color: white;
     font-weight: 700;
 }
+
+.box-div{
+    width: 40%;
+    float: left;
+    margin-left: 26%;
+    padding-left: 5%;
+}
+
+.last-sec{
+    background-image: url("../images/footer-bg.png");
+    /* background-color: palevioletred; */
+    background-repeat: no-repeat;
+    background-position: 0px 85px;
+    -webkit-background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+    background-size: 100% 100%;
+}
