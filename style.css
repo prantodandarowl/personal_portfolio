@@ -1,0 +1,29 @@
+body{
+    padding: 0px;
+    font-family: 'Oswald', sans-serif;
+}
+
+.color{
+    color: rgb(204, 63, 110);
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+
+.half-div{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+.half-div img{
+    width: 50%;
+}
+
+section{
+    height: 500px
+}
